@@ -1,2 +1,4 @@
 # Consecutive-Histograms-Monte-Carlo-Sampling-Protocol-for-Receptor-Ligand-Binding-Free-Energy-Study
 We hereby introduce a Consecutive Histograms Monte Carlo (CHMC) sampling protocol to generate receptor-ligand binding modes within a series of continuously distributed vicinities for ligand placement at and near the receptor’s binding site, which starts from the geometric center of the receptor’s binding site, until the receptor and ligand are separated far enough from their interaction interface. This protocol employs independent energy-state sampling for calculating the ensemble energy within every predefined vicinity along the receptor-ligand dissociation pathway, without the need to traverse the energy barriers as in the molecular dynamic simulation during the dissociation procedure. 
+
+Code in this repository is for readers to reproduce the work in the original research paper.
