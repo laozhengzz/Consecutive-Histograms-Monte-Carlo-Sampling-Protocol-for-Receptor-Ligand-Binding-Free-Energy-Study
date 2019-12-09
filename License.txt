@@ -1,0 +1,23 @@
+CHMC SOFTWARE LICENSE AGREEMENT
+
+IMPORTANT: This CHMC license Agreement is a legal agreement between you, the end user (either an individual or an entity), and Wuhan University of Technology.
+
+CHMC Software License 
+
+GRANT OF LICENSE. Wuhan University of Technology grants, and you hereby accept, a non-exclusive license to use the CHMC software product ("Software") to the extent of its rights and in accordance with the terms of this Agreement. This licensed copy of the Software may only be used by you at your site. You may install the Software on computers at your site, or at other locations, provided that reasonable steps are taken to restrict use of the software to you. You may not distribute copies of the Software to others inside and outside of your organization, and may make only those copies of the Software which are necessary to install and use it as permitted by this Agreement, or are for purposes of backup and archival records. 
+
+OWNERSHIP. This ownership is protected by the copyright laws of the United States and by international treaty provisions. Upon expiration or termination of this Agreement, you shall promptly return all copies of the Software and accompanying written materials to Wuhan University of Technology. 
+
+MODIFICATIONS AND DERIVATIVE WORKS. You may modify the software, and use it to create derivative works, for your internal use at the site covered by this license. You may not distribute such modified or derivative software to others inside and outside of your site without written permission. We encourage users to contribute modifications back into CHMC, but you are under no obligation to do so. 
+
+REPORTS OF PUBLICATIONS. You agree to acknowledge use of the Software in any reports or publications of results obtained with the Software. 
+
+ASSIGNMENT RESTRICTIONS. You shall not use the Software (or any part thereof) in connection with the provision of consultancy, modeling or other services, whether for value or otherwise, on behalf of any third party who does not hold a current valid CHMC Software License Agreement. You shall not rent, lease, or otherwise sublet the Software or any part thereof. You may not transfer on a permanent basis the rights granted under this license provided you transfer this Agreement and all copies of the Software, including prior versions, and all accompanying written materials. 
+
+LIMITED WARRANTY. LICENSEE acknowledges that LICENSORS make no warranty, expressed or implied, that the program will function without error, or in any particular hardware environment, or so as to generate any particular function or result, and further excluding any other warranty, as to the condition of the program, its merchantability, or its fitness for a particular purpose. LICENSORS shall not be liable for any direct, consequential, or other damages suffered by the LICENSEE or any others as a result of their use of the program, whether or not the same could have been foreseen by LICENSORS prior to granting this License. In no event shall LICENSORS liability for any breach of this agreement exceed the fee paid for the license. 
+
+Wuhan University of Technology’S LIABILITY. In no event shall Wuhan University of Technology be liable for any indirect, special, or consequential damages, such as, but not limited to, loss of anticipated profits or other economic loss in connection with or arising out of the use of the software by you or the services provided for in this Agreement, even if Wuhan University of Technology has been advised of the possibility of such damages. Wuhan University of Technology’s entire liability and your exclusive remedy shall be, at Wuhan University of Technology’s discretion, to return the Software and proof of purchase to Wuhan University of Technology for either (a) return of any license fee, or (b) correction or replacement of Software that does not meet the terms of this limited warranty. 
+
+NO OTHER WARRANTIES. Wuhan University of Technology disclaims other implied warranties, including, but not limited to, implied warranties of merchantability or fitness for any purpose, and implied warranties arising by usage of trade, course of dealing, or course of performance. Some states do not allow the limitation of the duration or liability of implied warranties, so the above restrictions might not apply to you. 
+
+END OF TERMS AND CONDITIONS
